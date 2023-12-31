@@ -3,3 +3,10 @@
 
 # folders
 my_dir/
+models/
+
+# files
+.ipynb_checkpoints
+data/submission*.csv
+data/submit*.csv
+submis*.csv
